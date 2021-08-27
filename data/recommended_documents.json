@@ -1,0 +1,51 @@
+{
+  "bibles": {
+    "en": [
+      "NASB",
+      "KJV",
+      "NETfree"
+    ],
+    "fi": [
+      "FinRK",
+      "FinSTLK2017"
+    ],
+    "es": [
+      "spaRV1909",
+      "NBLA",
+      "LBLA"
+    ],
+    "de": [
+      "deu1912eb"
+    ]
+  },
+  "commentaries": {
+    "en": [
+      "Gill",
+      "MHC",
+      "TSKe",
+      "KingComm"
+    ],
+    "nl": [
+      "DutKingComm"
+    ],
+    "de": [
+      "GerKingComm"
+    ]
+  },
+  "dictionaries": {
+    "en": [
+      "StrongsRealGreek",
+      "StrongsRealHebrew"
+    ]
+  },
+  "books": {
+    "en": [
+      "OpenHymnal"
+    ]
+  },
+  "maps": {
+    "en": [
+      "SmithBibleAtlas"
+    ]
+  }
+}
