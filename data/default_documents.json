@@ -1,7 +1,8 @@
 {
   "bibles": {
     "en": [
-      "KJV"
+      "KJV",
+      "ASV"
     ]
   },
   "commentaries": {
